@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm a student at Japanese language school.
+ I'm a student at Japanese language school.  
  I want to study Information Technology in the future.
 
 <!--
