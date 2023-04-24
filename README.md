@@ -13,7 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungh2002&hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent&custom_title=)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hungh2002.visitor-badge)
