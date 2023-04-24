@@ -16,6 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hungh2002.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=transparent&right_color=transparent)
 
  
