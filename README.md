@@ -25,7 +25,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" height="30" width="40" />
 </a>
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats-qfar.vercel.app/api?username=hungh2002&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats-qfar.vercel.app/api?username=hungh2002&hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7" />
 
 &hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7
 
