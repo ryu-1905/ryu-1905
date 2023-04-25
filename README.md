@@ -28,9 +28,6 @@
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats-qfar.vercel.app/api?username=hungh2002&hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7" />
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats-qfar.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent&custom_title=" />
-[![Top Langs](https://github-readme-stats-hungh2002.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent&custom_title=)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
