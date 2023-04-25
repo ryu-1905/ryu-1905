@@ -25,7 +25,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" height="30" width="40" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats-hungh2002.vercel.app/api?username=hungh2002&hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-7krp.vercel.app/api?username=hungh2002&hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7)](https://github.com/hungh2002/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-hungh2002.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent&custom_title=)](https://github.com/anuraghazra/github-readme-stats)
 
