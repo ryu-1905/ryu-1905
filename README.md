@@ -28,8 +28,8 @@
 <br>
 <br>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats-qfar.vercel.app/api?username=hungh2002&hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7" />
-
- <img align="left" alt="GitHub Stats" src="https://github-readme-stats-qfar.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent&custom_title=" />
+&nbsp
+ <img align="left" alt="Top Langs" src="https://github-readme-stats-qfar.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent&custom_title=" />
 <br>
 <br>
 
