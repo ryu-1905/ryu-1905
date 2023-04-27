@@ -28,7 +28,7 @@
 <br>
 <br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hungh2002?ext=activity?border=0?sheets=https://gist.github.com/hungh2002/1335c4cc34a2766e22fa0f850f87cf34/leetcode_stats_card.css)](https://leetcode.com/hungh2002/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hungh2002?sheets=https://gist.githubusercontent.com/hungh2002/1335c4cc34a2766e22fa0f850f87cf34/raw/a50a3949bdb1b69a43d4ba8d71a6961555e7061d/leetcode_stats_card.css)](https://leetcode.com/hungh2002/)
 
 <br>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats-qfar.vercel.app/api?username=hungh2002&hide_border=true&theme=transparent&show_icons=true&title_color=2f81f7&text_color=2f81f7" />
