@@ -8,22 +8,25 @@
 
 [![STACKOVERFLOW Badge](https://img.shields.io/stackexchange/stackoverflow/r/20087661?color=red&label=STACKOVERFLOW&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/20087661/h2002)
 
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100069865830621" target="blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="30" width="40" />
-</a>
+<p align="left"> 
+ You can contact me:
+ &nbsp
+ <a href="https://www.facebook.com/profile.php?id=100069865830621" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="30" width="40" />
+ </a>
+ &nbsp
+ <a href="mailto:manhhung.h2002@gmail.com" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" height="30" width="35" />
+ </a>
+ &nbsp
+ <a href="mailto:manhhung.h2002@gmail.com" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" width="35" />
+ </a>
 &nbsp
-<a href="mailto:manhhung.h2002@gmail.com" target="blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" height="30" width="35" />
-</a>
-&nbsp
-<a href="mailto:manhhung.h2002@gmail.com" target="blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" width="35" />
-</a>
-&nbsp
-<a href="https://twitter.com/H1905062002" target="blank">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" height="30" width="40" />
-</a>
+ <a href="https://twitter.com/H1905062002" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" height="30" width="40" />
+ </a>
+</p>
  
 <br>
 <br>
