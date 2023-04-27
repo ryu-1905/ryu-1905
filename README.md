@@ -19,7 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" height="30" width="35" />
  </a>
  &nbsp
- <a href="mailto:manhhung.h2002@gmail.com" target="blank">
+ <a href="https://www.linkedin.com/in/h2002/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" height="30" width="35" />
  </a>
 &nbsp
