@@ -4,6 +4,8 @@
  I'm a student at Japanese language school.  
  I want to study Information Technology in the future.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [![Wakatime Badge](https://wakatime.com/badge/user/e6b1e602-d31a-475f-a2e0-aeea1076f255.svg)](https://wakatime.com/@e6b1e602-d31a-475f-a2e0-aeea1076f255) 
 
 [![STACKOVERFLOW Badge](https://img.shields.io/stackexchange/stackoverflow/r/20087661?color=red&label=STACKOVERFLOW&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/20087661/h2002)
