@@ -5,6 +5,7 @@
  I want to study Information Technology in the future.
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 [![Wakatime Badge](https://wakatime.com/badge/user/e6b1e602-d31a-475f-a2e0-aeea1076f255.svg)](https://wakatime.com/@e6b1e602-d31a-475f-a2e0-aeea1076f255) 
 
@@ -43,3 +44,5 @@
 <br>
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
