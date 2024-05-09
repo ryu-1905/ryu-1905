@@ -6,10 +6,7 @@
 <br>
 I want to be a programmer, so I'm studying at an IT vocational school as an international student. I have an N3 on the Japanese Language Proficiency Test. I'm trying to build my project (a shopping site). Could you take a look and comment? 
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-[![Wakatime Badge](https://wakatime.com/badge/user/e6b1e602-d31a-475f-a2e0-aeea1076f255.svg)](https://wakatime.com/@e6b1e602-d31a-475f-a2e0-aeea1076f255) 
+<br>
 
 <p align="left"> 
  You can contact me:
