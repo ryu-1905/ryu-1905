@@ -25,4 +25,4 @@ I want to be a programmer, so I'm studying at an IT vocational school as an inte
 
 <br>
 
- <img align="left" alt="Top Langs" src="https://github-readme-stats-qfar.vercel.app/api/top-langs/?username=hungh2002&layout=compact&hide_border=true&theme=transparent" />
+ <img align="left" alt="Top Langs" src="https://github-readme-stats-qfar.vercel.app/api/top-langs/?username=ryu-1905&layout=compact&hide_border=true&theme=transparent" />
