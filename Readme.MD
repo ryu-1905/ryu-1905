@@ -15,7 +15,7 @@ I want to be a programmer, so I'm studying at an IT vocational school as an inte
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="30" width="40" />
  </a>
  &nbsp
- <a href="mailto:manhhung.h2002@gmail.com" target="blank">
+ <a href="mailto:hung.luu.ryu@gmail.com" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" height="30" width="35" />
  </a>
 </p>
